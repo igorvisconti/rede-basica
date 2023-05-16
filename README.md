@@ -1,2 +1,2 @@
 # rede-basica
-Sistema Interligado Nacional
+Esse é o primeiro teste de um webmap do Sistema Interligado Nacional (SIN) utilizando leaflet, produzido pelo plugin qgis2web
